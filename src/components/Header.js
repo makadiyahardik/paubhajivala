@@ -13,7 +13,7 @@ function Header() {
             <div className="flex justify-start items-start">
               <img
                 src="./pblogo.PNG"
-                className="h-[4rem] w-auto "
+                className="h-[5rem] w-auto "
               />
             </div>
           
