@@ -12,7 +12,7 @@ function Header() {
           <div className="flex  justify-between  md:items-center  ">
             <div className="flex justify-start items-start">
               <img
-                src="./logo.jpeg"
+                src="./pblogo.png"
                 className="h-[3rem] w-auto "
               />
             </div>
