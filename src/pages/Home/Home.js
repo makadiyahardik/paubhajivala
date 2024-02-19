@@ -12,7 +12,7 @@ function Home() {
             <div className="md:w-1/2 w-full mt-[5rem] ">
              
               <div className="text-white justify-center items-center text-center flex-col md:my-0 my-4">
-                <h1 className=" text-[55px] font-bold md:leading-[54px] leading-[30px]">
+                <h1 className=" text-[55px] font-bold leading-[54px] ">
               Let's Connect!
                 </h1>
                 <p className="text-white font-semibold text-[18px] leading-[30px] my-8">
